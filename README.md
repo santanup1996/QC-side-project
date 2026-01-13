@@ -7,7 +7,7 @@ This mini-project benchmarks a simple 2‑qubit light–matter Hamiltonian using
 
 ## Model
 
-$H(g)=\frac{\omega_c}{2}Z\otimesI + \frac{\omega_e}{2}I\otimesZ + gX\otimes X$
+$H(g)=\frac{\omega_c}{2}Z\otimes I + \frac{\omega_e}{2}I\otimes Z + gX\otimes X$
 
 Conventions match Qiskit's Pauli strings (`Pauli("ZI")` acts on $q_1\otimes q_0$).
 
