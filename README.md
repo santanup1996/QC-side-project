@@ -49,4 +49,4 @@ The notebook automatically saves job metadata and `PrimitiveResult` JSON under:
   - Ansatz A: **blue**
   - Ansatz B: **orange**
   - Local Noise Model or, IBM hardware: **red**
-  - Exact reference: **black **
+  - Exact reference: **black**
