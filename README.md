@@ -15,7 +15,7 @@ Conventions match Qiskit's Pauli strings (`Pauli("ZI")` acts on \(q_1\otimes q_0
 
 ## Contents
 
-- `notebooks/QC_summer_school_clean.ipynb` — main notebook (clean, reproducible)
+- `notebooks/QC_side_project_clean.ipynb` — main notebook (clean, reproducible)
 - `figures/` — figures saved by the notebook (`savefig(...)`)
 - `ibm_runs/` — saved hardware job metadata + `PrimitiveResult` JSON (so the notebook can be re-run without consuming QPU time)
 
@@ -49,4 +49,4 @@ The notebook automatically saves job metadata and `PrimitiveResult` JSON under:
   - Ansatz A: **blue**
   - Ansatz B: **orange**
   - IBM hardware: **red**
-  - Exact reference: **black dashed**
+  - Exact reference: **black (solid/dashed)**
