@@ -48,5 +48,5 @@ The notebook automatically saves job metadata and `PrimitiveResult` JSON under:
 - Plot colors are consistent throughout:
   - Ansatz A: **blue**
   - Ansatz B: **orange**
-  - IBM hardware: **red**
-  - Exact reference: **black (solid/dashed)**
+  - Local Noise Model or, IBM hardware: **red**
+  - Exact reference: **black **
