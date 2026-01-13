@@ -11,7 +11,7 @@ This mini-project benchmarks a simple 2‑qubit light–matter Hamiltonian using
 H(g)=\frac{\omega_c}{2}\,ZI + \frac{\omega_e}{2}\,IZ + g\,XX
 \]
 
-Conventions match Qiskit's Pauli strings (`Pauli("ZI")` acts on \(q_1\otimes q_0\)).
+Conventions match Qiskit's Pauli strings (`Pauli("ZI")` acts on $q_1\otimes q_0$).
 
 ## Contents
 
